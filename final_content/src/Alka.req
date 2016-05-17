@@ -1,0 +1,41 @@
+Certificate Request:
+    Data:
+        Version: 0 (0x0)
+        Subject: C=FR, ST=Michel, L=Leblanc, O=Iridium, OU=Sekator, CN=Alkanooor/emailAddress=perdsPasLeNord@nord.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:e3:04:42:22:33:ea:70:9a:a5:4d:d9:af:45:f9:
+                    19:5f:23:ca:d4:6e:ca:f1:57:ac:89:63:13:04:5b:
+                    b2:e4:1c:2a:e1:50:6d:e4:19:c8:d5:e9:4a:02:23:
+                    c7:44:5a:53:52:90:49:01:31:d9:52:69:50:8e:ef:
+                    42:4d:e2:91:1a:d6:5a:fa:d9:4d:43:bf:f3:ef:48:
+                    6f:02:d4:73:a2:2a:a8:26:cc:ee:8a:2d:25:33:e0:
+                    bf:27:60:e3:71:9b:97:81:7b:47:51:fa:02:68:ba:
+                    17:cc:31:48:4e:4e:9a:ff:9d:2d:50:3d:bb:c9:ff:
+                    b5:67:cc:8b:ac:00:a0:b0:71
+                Exponent: 65537 (0x10001)
+        Attributes:
+            a0:00
+    Signature Algorithm: sha256WithRSAEncryption
+         b1:57:c0:d6:a3:89:34:c2:4e:2a:3d:24:c7:ff:e0:d3:8d:ae:
+         3b:50:f9:d9:01:66:9c:1c:b3:a9:6b:00:b6:a5:26:c4:21:c7:
+         ad:f8:27:6d:4a:4a:09:10:54:1b:7e:0b:bd:9c:63:fc:9a:83:
+         d5:e6:63:50:59:51:e9:f5:c5:ea:a7:90:13:12:84:3a:36:3d:
+         27:fe:37:eb:5b:bf:7c:24:8d:31:6d:56:b1:1b:f8:ba:1e:af:
+         40:cc:43:a6:a9:f4:4e:bf:18:4b:42:7a:05:f8:8f:e7:81:65:
+         a2:56:e1:4c:48:d5:a1:f6:db:d9:67:15:80:50:3e:1e:e0:5a:
+         e7:4e
+-----BEGIN CERTIFICATE REQUEST-----
+MIIB0TCCAToCAQAwgZAxCzAJBgNVBAYTAkZSMQ8wDQYDVQQIDAZNaWNoZWwxEDAO
+BgNVBAcMB0xlYmxhbmMxEDAOBgNVBAoMB0lyaWRpdW0xEDAOBgNVBAsMB1Nla2F0
+b3IxEjAQBgNVBAMMCUFsa2Fub29vcjEmMCQGCSqGSIb3DQEJARYXcGVyZHNQYXNM
+ZU5vcmRAbm9yZC5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOMEQiIz
+6nCapU3Zr0X5GV8jytRuyvFXrIljEwRbsuQcKuFQbeQZyNXpSgIjx0RaU1KQSQEx
+2VJpUI7vQk3ikRrWWvrZTUO/8+9IbwLUc6IqqCbM7ootJTPgvydg43Gbl4F7R1H6
+Ami6F8wxSE5Omv+dLVA9u8n/tWfMi6wAoLBxAgMBAAGgADANBgkqhkiG9w0BAQsF
+AAOBgQCxV8DWo4k0wk4qPSTH/+DTja47UPnZAWacHLOpawC2pSbEIcet+CdtSkoJ
+EFQbfgu9nGP8moPV5mNQWVHp9cXqp5ATEoQ6Nj0n/jfrW798JI0xbVaxG/i6Hq9A
+zEOmqfROvxhLQnoF+I/ngWWiVuFMSNWh9tvZZxWAUD4e4FrnTg==
+-----END CERTIFICATE REQUEST-----

@@ -1,0 +1,3 @@
+openssl smime -sign -md sha256 -binary -in modele.pdf -out modele.signed -outform der -inkey Alka.key -signer Alka.crt
+
+xxd -p < modele.signed | tr -d '\n' > raw

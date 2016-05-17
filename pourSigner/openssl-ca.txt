@@ -1,0 +1,26 @@
+[ca]
+default_ca	= CA_default
+
+[CA_default]
+dir	= CA
+certs	= $dir/certs
+new_certs_dir	= $dir/newcerts
+database	= $dir/index.txt
+certificate	= $dir/ca.pem
+serial	= $dir/serial.txt
+private_key	= $dir/ca.key
+default_days	= 365
+default_md	= sha1
+crlnumber	= $dir/crlnumber.txt
+default_crl_days	= 15
+preserve	= no
+policy  = policy_accept
+
+[policy_accept]
+countryName = supplied
+stateOrProvinceName = optional
+localityName = optional
+organizationName = optional
+organizationalUnitName = optional
+commonName = supplied
+emailAddress = optional
