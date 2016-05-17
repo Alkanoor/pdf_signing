@@ -1,7 +1,0 @@
-#!/usr/bin/perl
-open(P,"-");
-$a=join("",<P>);
-while($a =~ m/Contents</gs){
-        print join(/:/,@-)."\n";
-        }
-close(P);

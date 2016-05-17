@@ -1,0 +1,105 @@
+%PDF-1.4
+1 0 obj <</Type /Catalog /Pages 2 0 R /AcroForm 17 0 R>>
+endobj
+2 0 obj <</Type /Pages /Kids [3 0 R 12 0 R] /Count 2>>
+endobj
+3 0 obj<</Type /Page /Parent 2 0 R /Resources 4 0 R /MediaBox [0 0 500 800] /Contents 6 0 R>>
+endobj
+4 0 obj<</Font <</F1 5 0 R>>>>
+endobj
+5 0 obj<</Type /Font /Subtype /Type1 /BaseFont /Helvetica>>
+endobj
+6 0 obj
+<</Length 44>>
+stream
+BT /F1 24 Tf 175 720 Td (Top SECRET!)Tj ET
+endstream
+endobj
+
+
+12 0 obj
+<<
+	/Type /Page
+	/Parent 2 0 R
+	/MediaBox [0 0 612 792]
+	/Resources 4 0 R
+	/MediaBox [0 0 500 800]
+	/Contents [
+		13 0 R
+	]
+	/Annots 14 0 R
+>>
+endobj
+
+13 0 obj
+<<
+	/Length 303
+>>
+stream
+	BT /Times 15 Tf 25 450 Td (Mise en garde:) Tj ET
+	BT /Times 15 Tf 25 400 Td (Attention) Tj ET
+	BT /Times 15 Tf 25 380 Td (Veuillez nous mettre une excellente note a ce projet) Tj ET
+	BT /Times 15 Tf 25 300 Td (Sinon il nous faudra prendre les mesures necessaires !) Tj ET
+	BT /Times 15 Tf 25 250 Td (A ne lire sous aucun pretexte, Alkanoor) Tj ET
+endstream
+endobj
+
+
+14 0 obj
+<<
+	/Type /Annot
+	/Subtype /Widget
+	/P 3 0 R
+	/FT /Sig
+	/F 4
+	/V 16 0 R
+	/Rect [0 0 0 0]
+	/T (Signature)
+	/AP <<
+		/N 15 0 R
+	>>
+>>
+endobj
+
+15 0 obj
+<<
+	/Type /XObject
+	/Subtype /Form
+	/Ressources <<
+	>>
+	/FormType 1
+	/BBox [0 0 0 0]
+	/Length 2
+>>
+stream
+
+
+endstream
+endobj
+
+
+16 0 obj
+<<
+	/Type /Sig
+	/Filter /Adobe.PPKMS
+	/SubFilter /adbe.pkcs7.detached
+	/Name (Alkanoor)
+	/ByteRange [0 1504 6282 149]
+	/Contents
+>>
+endobj
+
+
+17 0 obj
+<<
+	/SigFlags 3
+	/DA (/Times 0 Tf 0 g)
+	/Fields [
+		14 0 R
+	]
+>>
+endobj
+
+trailer <</Size 7/Root 1 0 R>>
+
+%%EOF

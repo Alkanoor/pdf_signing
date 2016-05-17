@@ -1,3 +1,0 @@
-openssl smime -sign -md sha256 -binary -in modele.pdf -out modele.signed -outform der -inkey CA/ca.key -signer CA/ca.pem
-
-xxd -p < modele.signed | tr -d '\n' > raw
